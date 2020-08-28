@@ -39,3 +39,4 @@ out_path 	= r'C:\Users\dvi\AppData\Local\Temp\out'
 # print(return_name(file_in))
 
 ocr(file_in, out_path)
+
